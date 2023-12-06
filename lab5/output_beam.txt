@@ -1,0 +1,5 @@
+The expression generated is: (~a v ~b v c )ʌ(a v b v c )ʌ(a v c v ~f )ʌ(a v c v d )ʌ(~d v e v ~f )ʌ(~a v c v ~d )ʌ(b v d v ~e )ʌ(~a v ~d v ~e )ʌ(b v c v ~d )ʌ(~a v b v c )ʌ(~a v b v ~c )ʌ(b v d v ~f )ʌ(c v ~d v e )ʌ(a v b v ~c )ʌ(~a v c v d )ʌ(~b v ~c v e )ʌ(a v ~d v e )ʌ(a v b v d )ʌ(~a v b v c )ʌ(~a v b v c )
+The value of variables yeilding the best result are: a: 1 b: 1 c: 1 d: -1 e: 1 f: 1 
+Clauses satisfied: 20
+Max queue size: 6
+Total states explored: 1

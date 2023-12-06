@@ -1,0 +1,5 @@
+The expression generated is: (b v ~c v ~f )ʌ(~a v b v c )ʌ(a v b v c )ʌ(b v c v d )ʌ(b v ~c v d )ʌ(~a v b v c )ʌ(~b v ~c v d )ʌ(a v ~b v c )ʌ(~a v c v ~d )ʌ(~a v c v g )ʌ(~a v ~b v g )ʌ(a v ~b v d )ʌ(a v b v d )ʌ(f v ~h v ~j )ʌ(~b v ~d v e )ʌ(a v ~b v e )ʌ(a v ~c v ~d )ʌ(a v ~b v c )ʌ(~a v ~c v d )ʌ(a v ~d v ~e )ʌ(a v ~b v e )ʌ(a v ~d v e )ʌ(a v c v d )ʌ(b v d v ~e )ʌ(~b v c v d )ʌ(b v ~c v d )ʌ(~a v ~b v c )ʌ(b v e v f )ʌ(~a v ~b v ~d )ʌ(~b v c v ~d )ʌ(~a v ~b v c )ʌ(a v ~c v d )ʌ(~a v ~c v ~e )ʌ(~d v g v h )ʌ(~a v c v e )ʌ(~a v ~b v ~c )ʌ(~b v ~c v ~d )ʌ(b v ~e v ~f )ʌ(a v ~b v ~g )ʌ(~a v ~b v ~c )ʌ(a v b v c )ʌ(a v ~b v c )ʌ(~a v ~c v ~d )ʌ(b v c v f )ʌ(a v b v c )ʌ(~a v b v c )ʌ(a v b v ~d )ʌ(~b v c v ~e )ʌ(a v b v c )ʌ(d v ~f v g )
+The value of variables yeilding the best result are: a: -1 b: 1 c: -1 d: -1 e: 1 f: -1 g: 1 h: -1 i: 1 j: -1 k: -1 l: 1 m: -1 n: -1 o: 1 p: 1 q: -1 r: -1 s: 1 t: -1 
+Clauses satisfied: 48
+Max queue size: 20
+Total states explored: 2195
